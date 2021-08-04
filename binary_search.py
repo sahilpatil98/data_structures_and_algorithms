@@ -2,7 +2,7 @@
 """
 Created on Wed Aug  4 12:55:28 2021
 
-@author: d0tamon
+@author: Sahil Patil
 """
 
 def binary_search(list, target):

@@ -2,7 +2,7 @@
 """
 Created on Wed Aug  4 12:33:24 2021
 
-@author: d0tamon
+@author: Sahil Patil
 """
 
 def linear_search(list, target):
