@@ -14,3 +14,5 @@ Algorithms
 3. Recusive Binary Search
 4. Merge Sorts
 5. Linked List Merge Sorts
+6. Selection Sorts
+7. Bogo Sorts
